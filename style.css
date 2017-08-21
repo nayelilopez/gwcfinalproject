@@ -1,0 +1,13 @@
+h2 { text-align: left;}
+body {
+    background-image:url("beaches.jpg");
+    background-color: #0000FF
+h1 {
+    color: white;
+    text-align: left;
+}
+
+p {
+    font-family: fantasy;
+    font-size: 18px;
+}
